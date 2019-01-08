@@ -32,6 +32,8 @@ A plan for a arcade box for two players
   - http://www.arcadeshop.de/Audio-Video-Speaker-5-Watt_323.html
 - Audio amplifier
   - http://www.arcadeshop.de/Audio-Video-Audio-Amplifier-stereo_767.html
+- USB sound card
+  - https://www.axagon.eu/en/produkty/ada-17
 - 12V charger
 
 # Box design
@@ -39,3 +41,19 @@ A plan for a arcade box for two players
 - Screws
 - Handle [link](https://www.thomann.de/gb/adam_hall_flight_case_fittings.html?ls=100)
 - 3D printed parts
+
+# Notes & links
+## Power
+- RPi: https://www.gme.cz/spinany-zdroj-mean-well-rs-15-5
+- Audio amplifier: https://www.gme.cz/spinany-zdroj-mean-well-rs-15-12
+
+## Audio
+- https://www.raspberrypi.org/documentation/configuration/audio-config.md
+- https://raspberrypi.stackexchange.com/questions/55593/output-sound-through-hdmi-and-usb-sound-card
+
+- https://www.danielandrade.net/2016/04/10/build-a-3-5mm-audio-switch/
+  - https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2054436.m570.l1313.TR0.TRC0.A0.H0.X3PDT+switch.TRS5&_nkw=3PDT+switch&_sacat=0
+
+- https://www.gme.cz/digitalni-audio-zesilovac-2x30w-s-tda7297#product-detail
+- https://www.gme.cz/reproduktor-ls105w-8-r8-105mm-8ohm-10w
+
