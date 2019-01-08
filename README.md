@@ -58,3 +58,5 @@ A plan for a arcade box for two players
   - https://www.aliexpress.com/w/wholesale-TDA7297-Version-B-Amplifier-Board.html?spm=2114.search0104.0.0.5faf753azEuaZp&initiative_id=SB_20190108053046&site=glo&groupsort=1&SortType=price_asc&g=y&SearchText=TDA7297+Version+B+Amplifier+Board
 - https://www.gme.cz/reproduktor-ls105w-8-r8-105mm-8ohm-10w
 
+## Build
+- https://www.slagcoin.com/joystick/mounting_layering.html
