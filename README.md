@@ -39,7 +39,12 @@ A plan for a arcade box for two players
 # Box design
 - Wood
 - Screws
-- Handle [link](https://www.thomann.de/gb/adam_hall_flight_case_fittings.html?ls=100)
+- Handle
+  - [thomann.de](https://www.thomann.de/gb/adam_hall_flight_case_fittings.html?ls=100)
+- Latch
+  - [thomann.de](https://www.thomann.de/intl/cat_GK_caekvs.html?ref=intl&shp=eyJjb3VudHJ5IjoiY3oiLCJjdXJyZW5jeSI6MiwibGFuZ3VhZ2UiOjJ9&reload=1)
+  - [flightcasefittings](https://www.flightcasefittings.co.uk/flightcase-hardware-catches-locks/flightcase-hardware-small-butterfly-catches/2u-slim-butterfly-catch-l903-7336z.html)
+  - [Spring Loaded Draw Toggle Latch](https://www.google.com/search?q=Spring+Loaded+Draw+Toggle+Latch+Catch+Hasp+Clamp+low&gws_rd=ssl)
 - 3D printed parts
 
 # Notes & links
