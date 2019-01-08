@@ -55,5 +55,6 @@ A plan for a arcade box for two players
   - https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2054436.m570.l1313.TR0.TRC0.A0.H0.X3PDT+switch.TRS5&_nkw=3PDT+switch&_sacat=0
 
 - https://www.gme.cz/digitalni-audio-zesilovac-2x30w-s-tda7297#product-detail
+  - https://www.aliexpress.com/w/wholesale-TDA7297-Version-B-Amplifier-Board.html?spm=2114.search0104.0.0.5faf753azEuaZp&initiative_id=SB_20190108053046&site=glo&groupsort=1&SortType=price_asc&g=y&SearchText=TDA7297+Version+B+Amplifier+Board
 - https://www.gme.cz/reproduktor-ls105w-8-r8-105mm-8ohm-10w
 
