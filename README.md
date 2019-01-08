@@ -20,22 +20,22 @@ A plan for a arcade box for two players
 - Micro SD card
 - 5V charger
 - Power switch 230V (mountable)
-- Network supply 2-pin 230V (IEC C7)
-- IEC C8 mount with screws
-- HDMI cable male-female (female mountable)
-- USB cable mountable 2x
-- Audio cable (female mountable)
-- RJ45 cable mountable
+- Network supply cable 2-pin 230V (IEC C7)
+- IEC C8 mount with screws [link](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20190108003004&SearchText=IEC+C8+mount)
+- HDMI cable male-female (female mountable) [link](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20190108010707&SearchText=hdmi+panel+mount)
+- USB cable mountable 2x [link](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20190108005946&SearchText=usb+mount+screw+dual)
+- Audio cable (female mountable) [link](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20190108010604&SearchText=audio+3.5+mm+stereo+panel+mount)
+- RJ45 cable mountable [link](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20190108010207&SearchText=RJ45+Cable+Male+to+Female+Screw+Panel+Mount)
 
 ## Audio
 - Speakers
+  - http://www.arcadeshop.de/Audio-Video-Speaker-5-Watt_323.html
 - Audio amplifier
   - http://www.arcadeshop.de/Audio-Video-Audio-Amplifier-stereo_767.html
-- Speakers
-  - http://www.arcadeshop.de/Audio-Video-Speaker-5-Watt_323.html
 - 12V charger
 
 # Box design
 - Wood
 - Screws
+- Handle [link](https://www.thomann.de/gb/adam_hall_flight_case_fittings.html?ls=100)
 - 3D printed parts
