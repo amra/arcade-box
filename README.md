@@ -47,6 +47,12 @@ A plan for a arcade box for two players
   - [Spring Loaded Draw Toggle Latch](https://www.google.com/search?q=Spring+Loaded+Draw+Toggle+Latch+Catch+Hasp+Clamp+low&gws_rd=ssl)
 - 3D printed parts
 
+## 3d print desings
+- https://www.thingiverse.com/thing:2606644
+- https://www.thingiverse.com/thing:3210730
+- https://www.thingiverse.com/thing:2253222
+- https://www.thingiverse.com/thing:1829299
+
 # Notes & links
 ## Power
 - RPi: https://www.gme.cz/spinany-zdroj-mean-well-rs-15-5
